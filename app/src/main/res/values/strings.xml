@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavigationComponentSample</string>
+    <string name="home_fragment">Home fragment</string>
+    <string name="account_fragment">Account fragment</string>
+    <string name="profile_fragment">Profile fragment</string>
+    <string name="settings_fragment">Settings fragment</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_account">Account</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_settings">Settings</string>
+</resources>
